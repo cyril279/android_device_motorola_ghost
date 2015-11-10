@@ -1,3 +1,5 @@
 # Radio
 rild.libargs=-d /dev/smd0
 rild.libpath=/system/lib/libril-qc-qmi-1.so
+# Build override
+ro.build.fingerprint=motorola/ghost_retail/ghost:5.1/LPA23.12-15.5/4:user/release-keys
