@@ -38,3 +38,6 @@ PRODUCT_NAME := omni_ghost
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := ghost
 PRODUCT_MANUFACTURER := Motorola
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    BUILD_FINGERPRINT="motorola/ghost_retail/ghost:5.1/LPA23.12-15.5/4:user/release-keys"
